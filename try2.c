@@ -7,7 +7,8 @@ typedef struct node{
 	struct node* l;
 	struct node* r;
 }tree;
-int result;
+
+
 //loading
 void input(char []);
 
